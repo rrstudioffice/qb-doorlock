@@ -26,7 +26,11 @@ local function checkItems(Player, items, needsAll, shouldRemove)
 	local isArray = isTable and table.type(items) == 'array' or false
 	local totalItems = 0
 	local count = 0
-	if isTable then for _ in pairs(items) do totalItems += 1 end else totalItems = #items end
+	if isTable then
+		for _ in pairs(items) do totalItems += 1 end
+	else
+		totalItems = #items
+	end
 	local kvIndex
 	if isArray then kvIndex = 2 else kvIndex = 1 end
 	if isTable then
