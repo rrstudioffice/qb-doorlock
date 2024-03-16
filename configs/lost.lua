@@ -10,7 +10,7 @@ table.insert(Config.DoorList, {
 	fixText = false,
 	objHash = -930593859, -- lost_mc_gate
 	audioRemote = false,
-	authorizedJobs = { ['lost'] = 0 },
+	authorizedJobs = { ['grota'] = 0 },
 	objHeading = 148.1940612793,
 	locked = true,
 	lockpick = false,
@@ -29,7 +29,7 @@ table.insert(Config.DoorList, {
 	fixText = true,
 	objHash = 190770132, -- v_ilev_lostdoor
 	audioRemote = false,
-	authorizedJobs = { ['lost'] = 0 },
+	authorizedJobs = { ['grota'] = 0 },
 	objHeading = 42.65185546875,
 	locked = true,
 	lockpick = false,
@@ -47,7 +47,7 @@ table.insert(Config.DoorList, {
 	fixText = false,
 	audioRemote = false,
 	objHeading = 43.01594543457,
-	authorizedJobs = { ['lost'] = 0 },
+	authorizedJobs = { ['grota'] = 0 },
 	garage = false,
 	objCoords = vector3(959.3824, -120.4512, 75.16158),
 	locked = true,
@@ -67,7 +67,7 @@ table.insert(Config.DoorList, {
 	fixText = false,
 	objHash = -822900180, -- v_ilev_carmod3door
 	audioRemote = false,
-	authorizedJobs = { ['lost'] = 0 },
+	authorizedJobs = { ['grota'] = 0 },
 	objHeading = 43.01594543457,
 	locked = true,
 	lockpick = false,
@@ -86,7 +86,7 @@ table.insert(Config.DoorList, {
 	fixText = true,
 	objHash = -822900180, -- v_ilev_carmod3door
 	audioRemote = false,
-	authorizedJobs = { ['lost'] = 0 },
+	authorizedJobs = { ['grota'] = 0 },
 	objHeading = 43.01594543457,
 	locked = true,
 	lockpick = false,
@@ -105,7 +105,7 @@ table.insert(Config.DoorList, {
 	fixText = false,
 	objHash = -197537718, -- lost_mc_door_01
 	audioRemote = false,
-	authorizedJobs = { ['lost'] = 0 },
+	authorizedJobs = { ['grota'] = 0 },
 	objHeading = 239.42889404296,
 	locked = true,
 	lockpick = false,

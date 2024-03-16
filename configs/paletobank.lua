@@ -1,21 +1,21 @@
 -- main entrance - doorname: "gabz_paletobank_officedoors06"
-table.insert(Config.DoorList, {
-	garage = false,
-	locked = true,
-	objHash = 2063730765,
-	objHeading = 135.00001525879,
-	fixText = false,
-	-- authorizedJobs = { ['bank']=0 },
-	slides = false,
-	objCoords = vector3(-110.6423, 6462.013, 31.79334),
-	lockpick = false,
-	audioRemote = false,
-	maxDistance = 2.0,
-	-- oldMethod = true,
-	-- audioLock = {['file'] = 'metal-locker.ogg', ['volume'] = 0.6},
-	-- audioUnlock = {['file'] = 'metallic-creak.ogg', ['volume'] = 0.7},
-	-- autoLock = 1000
-})
+-- table.insert(Config.DoorList, {
+-- 	garage = false,
+-- 	locked = true,
+-- 	objHash = 2063730765,
+-- 	objHeading = 135.00001525879,
+-- 	fixText = false,
+-- 	-- authorizedJobs = { ['bank']=0 },
+-- 	slides = false,
+-- 	objCoords = vector3(-110.6423, 6462.013, 31.79334),
+-- 	lockpick = false,
+-- 	audioRemote = false,
+-- 	maxDistance = 2.0,
+-- 	-- oldMethod = true,
+-- 	-- audioLock = {['file'] = 'metal-locker.ogg', ['volume'] = 0.6},
+-- 	-- audioUnlock = {['file'] = 'metallic-creak.ogg', ['volume'] = 0.7},
+-- 	-- autoLock = 1000
+-- })
 
 -- side entrance - doorname: "v_ilev_ct_doorl"
 table.insert(Config.DoorList, {

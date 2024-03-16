@@ -1,4 +1,4 @@
--- grota - front 
+-- grota - front
 table.insert(Config.DoorList, {
 	garage = false,
 	lockpick = false,

@@ -1,3 +1,4 @@
+-- @todo Pode ser adicionado ao desmanche
 -- ottos - garagedoor left
 table.insert(Config.DoorList, {
 	fixText = false,

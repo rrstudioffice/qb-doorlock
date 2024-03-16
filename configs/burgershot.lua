@@ -1,40 +1,40 @@
 -- entrance_parking_left
-table.insert(Config.DoorList, {
-	locked = true,
-	garage = false,
-	audioRemote = false,
-	lockpick = false,
-	maxDistance = 2.0,
-	objCoords = vector3(-1183.373, -885.5644, 13.90346),
-	-- authorizedJobs = { ['unemployed'] = 0 },
-	objHeading = 124.04663848877,
-	fixText = false,
-	slides = false,
-	objHash = 1724308471,
-	-- oldMethod = true,
-	-- audioLock = {['file'] = 'metal-locker.ogg', ['volume'] = 0.6},
-	-- audioUnlock = {['file'] = 'metallic-creak.ogg', ['volume'] = 0.7},
-	-- autoLock = 1000
-})
+-- table.insert(Config.DoorList, {
+-- 	locked = true,
+-- 	garage = false,
+-- 	audioRemote = false,
+-- 	lockpick = false,
+-- 	maxDistance = 2.0,
+-- 	objCoords = vector3(-1183.373, -885.5644, 13.90346),
+-- 	-- authorizedJobs = { ['unemployed'] = 0 },
+-- 	objHeading = 124.04663848877,
+-- 	fixText = false,
+-- 	slides = false,
+-- 	objHash = 1724308471,
+-- 	-- oldMethod = true,
+-- 	-- audioLock = {['file'] = 'metal-locker.ogg', ['volume'] = 0.6},
+-- 	-- audioUnlock = {['file'] = 'metallic-creak.ogg', ['volume'] = 0.7},
+-- 	-- autoLock = 1000
+-- })
 
--- entrance_parking_right
-table.insert(Config.DoorList, {
-	locked = true,
-	garage = false,
-	audioRemote = false,
-	lockpick = false,
-	maxDistance = 2.0,
-	objCoords = vector3(-1184.716, -883.5756, 13.90346),
-	-- authorizedJobs = { ['unemployed'] = 0 },
-	objHeading = 304.04663085938,
-	fixText = false,
-	slides = false,
-	objHash = -571782594,
-	-- oldMethod = true,
-	-- audioLock = {['file'] = 'metal-locker.ogg', ['volume'] = 0.6},
-	-- audioUnlock = {['file'] = 'metallic-creak.ogg', ['volume'] = 0.7},
-	-- autoLock = 1000
-})
+-- -- entrance_parking_right
+-- table.insert(Config.DoorList, {
+-- 	locked = true,
+-- 	garage = false,
+-- 	audioRemote = false,
+-- 	lockpick = false,
+-- 	maxDistance = 2.0,
+-- 	objCoords = vector3(-1184.716, -883.5756, 13.90346),
+-- 	-- authorizedJobs = { ['unemployed'] = 0 },
+-- 	objHeading = 304.04663085938,
+-- 	fixText = false,
+-- 	slides = false,
+-- 	objHash = -571782594,
+-- 	-- oldMethod = true,
+-- 	-- audioLock = {['file'] = 'metal-locker.ogg', ['volume'] = 0.6},
+-- 	-- audioUnlock = {['file'] = 'metallic-creak.ogg', ['volume'] = 0.7},
+-- 	-- autoLock = 1000
+-- })
 
 -- entrance_parking_employee
 table.insert(Config.DoorList, {
